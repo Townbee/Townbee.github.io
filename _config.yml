@@ -2,7 +2,7 @@ url: https://townbee.github.io
 
 # Site settings
 title: Townbee
-email: your-email@domain.com
+email: townbee@muenchen.enactus.de
 description: "Wir bringen seit 2017 motivierten Flüchtlingen mit verschiedensten Hintergründen das Imkern bei. Dabei leisten wir ein Beitrag gegen das Bienensterben."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -15,3 +15,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+ 
