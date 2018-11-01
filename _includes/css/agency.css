@@ -57,6 +57,10 @@ h6 {
     font-weight: 700;
 }
 
+.media-logo {
+    height: 60px
+}
+
 .img-centered {
     margin: 0 auto;
 }

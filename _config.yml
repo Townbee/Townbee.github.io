@@ -19,6 +19,7 @@ social:
 collections:
     team:
     about:
+    media:
 
 # Build settings
 markdown: kramdown

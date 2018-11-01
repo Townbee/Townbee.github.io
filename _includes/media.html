@@ -1,0 +1,14 @@
+<!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container" >
+            <div class="row">
+            {% for media in site.media %}
+                <div class="col-md-4 col-sm-6">
+                    <a target="_blank" rel="noopener noreferrer" href=" {{ media.link }} ">
+                        <img src="{{ media.logo }}" class="media-logo img-responsive img-centered" alt="">
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </aside>
