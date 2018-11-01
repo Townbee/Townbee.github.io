@@ -1,0 +1,6 @@
+---
+heading: August 2018
+subheading: Honigernte II
+description: Nach einer busy Bienensaison schleudern wir 90kg Honig, womit wir unseren Ertrag vom letzten Jahr verfünffachen. Neben der Honigernte war es uns möglich noch drei Ableger aus unseren eigenen Bienchen zu bilden. Wir sind gespannt auf's nächste Jahr.
+image: img/about/3.jpg
+---

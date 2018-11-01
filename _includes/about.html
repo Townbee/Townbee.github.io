@@ -10,77 +10,27 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        <li>
+                    {% for time in site.timeline %}
+                        {% assign loopindex = forloop.index | modulo: 2 %}
+                        {% if loopindex == 1 %}
+                            <li>
+                            {% else %}
+                            <li class="timeline-inverted">
+                        {% endif %}
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src=" {{ time.image }} " alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2016</h4>
-                                    <h4 class="subheading">Wie alles begann...</h4>
+                                    <h4> {{ time.heading }} </h4>
+                                    <h4 class="subheading"> {{ time.subheading }}</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Fünf motivierte Münchner Studenten gründen Townbee mit der Vision, den Artenschutz der Bienen mit der Integration von Flüchtlingen in das Sozial- und Arbeitsleben zu verbinden. Bei der Ford College Community Challenge gewinnt Townbee die mit 5000 US-Dollar dotierte Auszeichnung für studentische Projekte zum Thema „Aufbau einer nachhaltigen Gesellschaft". </p>
+                                    <p class="text-muted"> {{ time.description }}</p>
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/freudenberg.png" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>Frühjahr 2017</h4>
-                                    <h4 class="subheading">Pilotphase: Freudenberg</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Freudenberg ist ein 1849 gegründeter internationaler Technologiekonzern, mit mehr als 500 Standorten weltweit. Überzeugt von unserem Konzept, stellt Freudenberg uns ein Firmengrundstück in München zur Verfügung. Mit drei Bienenvölkern beginnen wir unsere Pilotphase.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>Mai 2017</h4>
-                                    <h4 class="subheading">Honigernte I</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted"></p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/kpmg.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>Frühjahr 2018</h4>
-                                    <h4 class="subheading">KPMG ist auch überzeugt</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted"> KPMG gehört in Deutschland zu den führenden Wirtschaftsprüfungs- und Beratungsunternehmen. Begeistert teilt KPMG unsere Vision und entscheidet sich uns zu unterstützen. Wir freuen uns über die zukünftige Zusammenarbeit und verdoppeln unsere Bienenvölker.
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>August 2018</h4>
-                                    <h4 class="subheading">Honigernte II</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Nach einer busy Bienensaison schleudern wir 90kg Honig, womit wir unseren Ertrag vom letzten Jahr verfünffachen. Neben der Honigernte war es uns möglich noch drei Ableger aus unseren eigenen Bienchen zu bilden. Wir sind gespannt auf's nächste Jahr.</p>
-                                </div>
-                            </div>
-                        </li>
+                    {% endfor %}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Werde

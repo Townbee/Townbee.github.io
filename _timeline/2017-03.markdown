@@ -1,0 +1,6 @@
+---
+heading: Frühjahr 2017
+subheading: Pilotphase Freudenberg
+description: Freudenberg ist ein 1849 gegründeter internationaler Technologiekonzern, mit mehr als 500 Standorten weltweit. Überzeugt von unserem Konzept, stellt Freudenberg uns ein Firmengrundstück in München zur Verfügung. Mit drei Bienenvölkern beginnen wir unsere Pilotphase.
+image: img/about/freudenberg.png
+---
