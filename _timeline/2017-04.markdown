@@ -1,6 +1,6 @@
 ---
 heading: Mai 2017
 subheading: Honigernte I
-description: 
-image: img/about/1.jpg
+description:
+image: img/about/honey1.png
 ---

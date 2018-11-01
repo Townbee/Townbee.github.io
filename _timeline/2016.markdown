@@ -2,5 +2,5 @@
 heading: 2016
 subheading: Wie alles begann...
 description: Fünf motivierte Münchner Studenten gründen Townbee mit der Vision, den Artenschutz der Bienen mit der Integration von Flüchtlingen in das Sozial- und Arbeitsleben zu verbinden. Bei der Ford College Community Challenge gewinnt Townbee die mit 5000 US-Dollar dotierte Auszeichnung für studentische Projekte zum Thema „Aufbau einer nachhaltigen Gesellschaft".
-image: https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Ford.svg/1140px-Ford.svg.png
+image: /img/about/ford.png
 ---
