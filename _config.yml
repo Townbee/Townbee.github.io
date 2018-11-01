@@ -15,6 +15,7 @@ social:
 
 collections:
     members:
+    about:
 
 # Build settings
 markdown: kramdown

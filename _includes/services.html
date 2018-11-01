@@ -8,31 +8,16 @@
                 </div>
             </div>
             <div class="row text-center">
+            {% for topic in site.about %}
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                        <i class="fa {{ topic.icon }} fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">7 FLÜCHTLINGE</h4>
-                    <p class="text-muted">Wir bringen seit 2017 motivierten Flüchtlingen mit verschiedensten Hintergründen das Imkern bei. Auf den wöchentlichen Imkertreffen können sie ihre deutschen Sprachkenntnisse vertiefen.</p>
+                    <h4 class="service-heading"> {{ topic.heading }} </h4>
+                    <p class="text-muted"> {{ topic.description }} </p>
                 </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-building fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">2 PARTNERFIRMEN</h4>
-                    <p class="text-muted">Freudenberg und KPMG arbeiten mit uns zusammen, um sich sozial und ökologisch zu engagieren. Sie stellen Firmengrundstücke zur Verfügung, auf denen die Bienenvölker bewirtschaftet werden.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">MEHR ALS 100 KG HONIG</h4>
-                    <p class="text-muted">Wir leisten einen wird ein Beitrag gegen das Bienensterben und übernehmen Verantwortung für acht Bienenvölker. Der individuell gestaltete Honig wird an die Firmen für ihre Unterstützung übergeben. </p>
-                </div>
-
+            {% endfor %}
             </div>
         </div>
     </section>
