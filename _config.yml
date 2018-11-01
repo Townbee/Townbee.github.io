@@ -2,6 +2,9 @@ url: https://townbee.github.io
 
 # Site settings
 title: Townbee
+subtitle: Bee the change
+more_button: Mehr erfahren
+
 # email: townbee@muenchen.enactus.de
 email: nicola.miskowiec@gmail.com
 description: "Wir bringen seit 2017 motivierten Flüchtlingen mit verschiedensten Hintergründen das Imkern bei. Dabei leisten wir ein Beitrag gegen das Bienensterben."
@@ -14,7 +17,7 @@ social:
     url: http://github.com/townbee
 
 collections:
-    members:
+    team:
     about:
 
 # Build settings
