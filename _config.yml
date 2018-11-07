@@ -22,6 +22,9 @@ collections:
     timeline:
     media:
 
+sass:
+    style: compressed
+
 # Build settings
 markdown: kramdown
 permalink: pretty
