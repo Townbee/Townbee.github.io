@@ -1,8 +1,8 @@
 ---
 title: Rida
 layout: default
-modal-id: 6
-date: 2014-07-16
+modal-id: 3
+date: 0000-01-03
 img: rida2.jpeg
 thumbnail: rida.jpeg
 alt: image-alt

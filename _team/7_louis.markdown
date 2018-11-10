@@ -1,8 +1,8 @@
 ---
 title: Louis
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 7
+date: 0000-01-07
 img: louis.png
 thumbnail: louis.png
 alt: image-alt

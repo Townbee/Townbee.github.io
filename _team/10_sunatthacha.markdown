@@ -1,8 +1,8 @@
 ---
 title: Sunatthacha
 layout: default
-modal-id: 2
-date: 2014-07-17
+modal-id: 10
+date: 0000-01-10
 img: sunatthacha.jpg
 thumbnail: sunatthacha.jpg
 alt: image-alt

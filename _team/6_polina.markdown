@@ -1,8 +1,8 @@
 ---
 title: Polina
 layout: default
-modal-id: 5
-date: 2014-07-16
+modal-id: 6
+date: 0000-01-06
 img: polina.jpg
 thumbnail: polina.jpg
 alt: image-alt

@@ -1,8 +1,8 @@
 ---
 title: Amin
 layout: default
-modal-id: 5
-date: 2014-07-16
+modal-id: 2
+date: 0000-01-02
 img: amin.jpg
 thumbnail: amin.jpg
 alt: image-alt

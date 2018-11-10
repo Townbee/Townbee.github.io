@@ -1,8 +1,8 @@
 ---
 title: Peggy
 layout: default
-modal-id: 4
-date: 2014-07-16
+modal-id: 8
+date: 0000-01-08
 img: peggy.jpeg
 thumbnail: peggy.jpeg
 alt: image-alt

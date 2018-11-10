@@ -2,7 +2,7 @@
 title: Hafez
 layout: default
 modal-id: 1
-date: 2017-01-01
+date: 0000-01-01
 img: hafez_bees.jpg
 thumbnail: hafez_book.png
 alt: image-alt
