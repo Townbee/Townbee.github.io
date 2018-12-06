@@ -1,6 +1,6 @@
 ---
 heading: Mai 2017
 subheading: Honigernte I
-description: 'Unsere Pilotphase hat sich als erfolgreich erwiesen, denn wir konnten 75 Gläser Honig befüllen!!! Wir sind sehr stolz darauf, was wir innerhalb von nur einem Jahr erreicht haben und danken allen, die uns mit Rat und Tat zur Seite standen! Mit so viel Motivation, Teamgeist und Spaß wollen wir weiter machen!'
+description: 'Unsere Pilotphase hat sich als erfolgreich erwiesen, denn wir konnten 75 Gläser Honig befüllen! Wir sind sehr stolz auf das, was wir innerhalb von nur einem Jahr erreicht haben und danken allen, die uns mit Rat und Tat zur Seite standen! Mit so viel Motivation, Teamgeist und Spaß wollen wir weiter machen!'
 image: img/about/honey1.png
 ---
