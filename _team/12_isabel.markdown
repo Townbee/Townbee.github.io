@@ -1,8 +1,8 @@
 ---
 title: Isabel
 layout: default
-modal-id: 15
-date: 0000-01-15
+modal-id: 12
+date: 0000-01-12
 img: isabel-min.jpeg
 thumbnail: isabel-crop.jpeg
 alt: image-alt

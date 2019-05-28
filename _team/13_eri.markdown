@@ -1,8 +1,8 @@
 ---
 title: Eri
 layout: default
-modal-id: 16
-date: 0000-01-16
+modal-id: 13
+date: 0000-01-13
 img: eri_max.png
 thumbnail: eri.png
 alt: image-alt

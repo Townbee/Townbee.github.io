@@ -1,8 +1,8 @@
 ---
 title: Philipp
 layout: default
-modal-id: 13
-date: 0000-01-07
+modal-id: 10
+date: 0000-01-10
 img: philipp.jpg
 thumbnail: philipp.jpg
 alt: image-alt
