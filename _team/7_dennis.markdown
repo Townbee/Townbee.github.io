@@ -1,8 +1,8 @@
 ---
 title: Dennis
 layout: default
-modal-id: 11
-date: 0000-01-11
+modal-id: 7
+date: 0000-01-7
 img: dennis_big.jpg
 thumbnail: dennis.jpg
 alt: image-alt
