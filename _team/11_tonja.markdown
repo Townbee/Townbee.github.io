@@ -1,8 +1,8 @@
 ---
 title: Tonja
 layout: default
-modal-id: 17
-date: 0000-01-17
+modal-id: 11
+date: 0000-01-11
 img: tonja.png
 thumbnail: tonja_min.jpeg
 alt: image-alt

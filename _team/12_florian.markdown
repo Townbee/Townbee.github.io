@@ -1,8 +1,8 @@
 ---
 title: Florian
 layout: default
-modal-id: 8
-date: 0000-01-8
+modal-id: 12
+date: 0000-01-12
 img: florian_big.jpg
 thumbnail: florian.jpg
 alt: image-alt
