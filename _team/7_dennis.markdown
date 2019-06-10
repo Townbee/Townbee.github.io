@@ -2,7 +2,7 @@
 title: Dennis
 layout: default
 modal-id: 7
-date: 0000-01-7
+date: 0000-01-07
 img: dennis_big.jpg
 thumbnail: dennis.jpg
 alt: image-alt
