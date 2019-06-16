@@ -2,5 +2,5 @@
 heading: Frühjahr 2018
 subheading: KPMG - Ein weiterer Partner
 description: KPMG gehört in Deutschland zu den führenden Wirtschaftsprüfungs- und Beratungsunternehmen. Begeistert teilt KPMG unsere Vision und entscheidet sich, uns zu unterstützen. Wir freuen uns über die zukünftige Zusammenarbeit und verdoppeln unsere Bienenvölker.
-image: img/about/kpmg.jpg
+image: /img/about/kpmg.jpg
 ---
