@@ -2,6 +2,7 @@
 layout: base
 title: Datenschutz
 ---
+<div style="padding:20px">
 <h1>Datenschutz</h1>
 <h2>Inhalt</h2>
 <ul>
