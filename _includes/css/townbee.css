@@ -1,0 +1,3 @@
+.navbar-default .current-page {
+    color: #{{ site.data.template.color.secondary }} !important;
+}
