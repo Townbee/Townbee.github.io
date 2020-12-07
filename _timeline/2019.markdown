@@ -1,0 +1,6 @@
+---
+heading: 2016
+subheading: LaSalle - Ein neuer Partner
+description: LaSalle Investment Management ist ein weltweit führender Experte im Immobilien-Investment Management. Der Vorreiter zeichnet sich durch ein starkes Engagement in ökologischen Themen aus. Mit unserer Partnerschaft setzen wir uns für eine nachhaltige Entwicklung unserer Umwelt und die Integration von Geflüchteten ein. Seit 2019 ist Townbee mit mehreren Bienenvölker auf dem Grundstück von LaSalle vertreten. 
+image: /img/about/ford.png
+---
