@@ -3,7 +3,7 @@ title: Peggy
 layout: default
 modal-id: 6
 date: 0000-01-06
-img: peggy-max.png
+img: peggy-max.jpg
 thumbnail: peggy-min.png
 alt: image-alt
 description: 'Hi, mein Name ist Peggy und ich studiere Ingenieurswissenschaften an der TUM. Ich bin seit November 2017 Mitglied bei Townbee und mache seit diesem Semester auch noch die Projektleitung zusammen mit Katherin. 
